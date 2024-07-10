@@ -17,5 +17,5 @@ each model was asked to solve the riddles in two separate attempts (for a total 
 | gpt-4o            | 
 | claude-3.5-sonnet |
 | gpt-4-turbo       |
-| gemini-advanced   |
+| gemini-1.5-pro   |
 | llama-3-70b       |
